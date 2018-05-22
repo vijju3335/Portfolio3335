@@ -1,51 +1,69 @@
+<!--help browser to find type of script as html-->
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
+  <!--Project Title here-->
   <title>My Portfolio</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--viewport helps to make page responsive-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--External CSS file linked-->
   <link rel="stylesheet" href="css/main.css">
+  <!--Google fonts link added-->
   <link href="https://fonts.googleapis.com/css?family=Gaegu" rel="stylesheet">
+  <!--Bootstrap links below-->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+  <!--project rule:: use external links for css, js, other.But on Embeded code-->
 </head>
+<!--body must be divided into 3 fields :: <header>, <main>, <footer>-->
 
 <body>
+  <!--header here, contains nav-bar ,....-->
   <header>
-
+    <!--div tag here-->
     <div class="header-img">
       <img src="images/log.jpg" alt="logo">
     </div>
+    <!--class selector  here-->
     <div class="header-text">
       <h1>VIJAY BABU</h1>
       <h3>Full Stack Ninja</h3>
     </div>
     <hr class="hr-line">
   </header>
+  <!--Main content goes here-->
   <main>
     <div class="quote">
+      <!--Quotes related to frienship here-->
+      <!--heading tag here-->
       <h3>Quotes ::</h3>
+      <!--braek tag here no closing need-->
       <br>
       <p>"Me and my buddies are all like brothers. So it's okay for us to say 'I love you' or whatever. It's always cool. I
         think that comes from my dad. That's just the way he always was."</p>
-      <p id="q2">"Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow
+      <p>"Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow
         people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over."</p>
       <p>"Friendship is the hardest thing in the world to explain. It's not something you learn in school. But if you haven't
         learned the meaning of friendship, you really haven't learned anything in your life."</p>
-      <p id="q4">"A friend is someone who knows all about you and still loves you."</p>
+      <p>"A friend is someone who knows all about you and still loves you."</p>
     </div>
+    <!--Bootstrap used here-->
     <div class="container">
       <div class="row">
 
         <div class="card col-md-4" style="width:400px">
-          <img class="card-img-top" src="images/sriram.jpeg" alt="Card image">
+          <!--Img tag here-->
+          <img class="card-img-top" src="images/sriram.jpeg" alt="sriram">
           <div class="card-body">
             <h4 class="card-title">Sri Ram Prasad</h4>
             <p class="card-text">Sri Ram is an CEO of 'Facebook' and good Programmer.We call him 'Bavamardhi'.</p>
+
             <a href="https://www.facebook.com/sriram.prasad.1466" class="btn btn-primary">See Profile</a>
           </div>
         </div>
@@ -87,9 +105,8 @@
         </div>
 
       </div>
-
     </div>
   </main>
 </body>
-
+<!--add js src here if needed, As js file should load after body loaded-->
 </html>
