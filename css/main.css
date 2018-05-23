@@ -25,6 +25,8 @@ body {
     width:400px;
     padding-left: 0px;
     padding-right: 0px;
+    margin-bottom: 20px;
+    border-width: 5px;
 } 
 
 .col-md-4:hover {
@@ -43,7 +45,16 @@ body {
 }
 
  .quote {
-    padding: 0 33px;
+    padding: 0 30px;
     font-weight:bold;
     font-size:20px;
 }
+
+ footer{
+     background-color: cornflowerblue;
+     text-align: center;
+     margin-top: 5px;
+     padding-top: 10px;
+     padding-bottom: 5px;
+     color: white;
+ }
