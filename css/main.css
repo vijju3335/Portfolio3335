@@ -1,60 +1,60 @@
 body {
-	font-family:'Gaegu', cursive;
+  font-family: "Gaegu", cursive;
 }
 
- .header-text {
-    text-align: right;
-    padding-top: 15px;
-    padding-bottom: 18px;
+.header-text {
+  text-align: right;
+  padding-top: 15px;
+  padding-bottom: 18px;
 }
 
- .header-img {
-    float: left;
+.header-img {
+  float: left;
 }
 
- header {
-    padding: 30px 30px 10px 30px;
-    margin: 5px;
+header {
+  padding: 30px 30px 10px 30px;
+  margin: 5px;
 }
 
- .hr-line {
-    border: 1px solid rgb(74, 61, 85);
+.hr-line {
+  border: 1px solid rgb(74, 61, 85);
 }
 
- .col-md-4 {
-    width:400px;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-bottom: 20px;
-    border-width: 5px;
-} 
+.col-md-4 {
+  width: 400px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-bottom: 20px;
+  border-width: 5px;
+}
 
 .col-md-4:hover {
-    border: 4px solid blue;
-    border-radius: 20px;
-    padding: 0;
+  border: 4px solid blue;
+  border-radius: 20px;
+  padding: 0;
 }
 
- .card-img-top:hover {
-    border-radius: 20px;
+.card-img-top:hover {
+  border-radius: 20px;
 }
 
- .container {
-    margin-left: 20px;
-    margin-right: 20px;
+.container {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
- .quote {
-    padding: 0 30px;
-    font-weight:bold;
-    font-size:20px;
+.quote {
+  padding: 0 30px;
+  font-weight: bold;
+  font-size: 20px;
 }
 
- footer{
-     background-color: cornflowerblue;
-     text-align: center;
-     margin-top: 5px;
-     padding-top: 10px;
-     padding-bottom: 5px;
-     color: white;
- }
+footer {
+  background-color: cornflowerblue;
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  color: white;
+}
