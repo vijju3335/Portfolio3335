@@ -1,4 +1,4 @@
- body {
+body {
 	font-family:'Gaegu', cursive;
 }
 
@@ -43,7 +43,7 @@
 }
 
  .quote {
-    padding: 0 30px;
+    padding: 0 33px;
     font-weight:bold;
-    font-size:25px;
+    font-size:20px;
 }
