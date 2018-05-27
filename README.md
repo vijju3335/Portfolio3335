@@ -106,10 +106,13 @@ Now, copy the index.html file path and paste the url in browser.(file:///C:/User
 
 ## References 
 
--Html from [Udacity_here](http://udacity.github.io/frontend-nanodegree-styleguide/) 
--Html, Css, Bootstrap from [w3schools_here](https://www.w3schools.com) 
--[Bootstrap_here](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
--project requirements [Project_review](https://review.udacity.com/#!/rubrics/45/view)
+-Html from [Udacity_here](http://udacity.github.io/frontend-nanodegree-styleguide/).
+
+-Html, Css, Bootstrap from [w3schools_here](https://www.w3schools.com) .
+
+-[Bootstrap_here](https://getbootstrap.com/docs/4.0/getting-started/introduction/) .
+
+-project requirements [Project_review](https://review.udacity.com/#!/rubrics/45/view).
 
 ---
 
