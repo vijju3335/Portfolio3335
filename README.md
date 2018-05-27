@@ -3,7 +3,7 @@ Udacity Full Stack Nano Degree Project2
 
 The second project of the [Udacity Full Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program called "Build a Portfolio Site".
 
-This project demonstrates the usage of  HTML, CSS to create a static webpage, Portfolio.This project also includes BOOTSTRAP involved in the display of the webpage.
+This project demonstrates the usage of  HTML, CSS to create a static webpage, Portfolio.This project also includes BOOTSTRAP involved in the displays **My Portfolio about my Buddies**  as the webpage.
 
 ## Table of contents
 
